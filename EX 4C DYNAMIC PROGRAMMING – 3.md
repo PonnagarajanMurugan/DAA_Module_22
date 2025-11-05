@@ -1,5 +1,4 @@
 # EX 4C DYNAMIC PROGRAMMING – 3
-## DATE:
 ## AIM:
 Given a sequence, find the length of the longest palindromic subsequence in it.
 
@@ -16,8 +15,8 @@ Given a sequence, find the length of the longest palindromic subsequence in it.
 ```
 /*
 Program to implement to find the length of the longest palindromic subsequence in it
-Developed by: SRIRAJ G
-Register Number: 212222040161
+Developed by: PON NAGARAJAN M
+Register Number: 212222040115
 */
 ```
 ```
