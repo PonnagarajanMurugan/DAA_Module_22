@@ -1,5 +1,4 @@
 # EX 4A DYNAMIC PROGRAMMING - 1
-## DATE:
 ## AIM:
 To find longest common subsequence using Dynamic Programming.
 
@@ -23,8 +22,8 @@ To find longest common subsequence using Dynamic Programming.
 Program to implement the longest common subsequence using Dynamic Programming
 
 .
-Developed by: SRIRAJ G
-Register Number:  212222040161
+Developed by: PON NAGARAJAN M
+Register Number:  212222040115
 */
 ```
 ```
