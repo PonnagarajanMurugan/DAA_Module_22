@@ -1,5 +1,4 @@
 # EX 4B DYNAMIC PROGRAMMING – 2
-## DATE: 
 ## AIM:
 To find the longest string (or strings) that is a substring (or are substrings) of two strings..
 
@@ -18,8 +17,8 @@ To find the longest string (or strings) that is a substring (or are substrings) 
 Program to implement the longest common substring problem
 
 .
-Developed by: SRIRAJ G
-Register Number: 212222040161
+Developed by: PON NAGARAJAN M
+Register Number: 212222040115
 */
 ```
 ```
